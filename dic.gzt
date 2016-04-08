@@ -1,0 +1,10 @@
+encoding "utf8";
+
+import "base.proto";
+import "articles_base.proto";
+
+TAuxDicArticle "first_gramma"
+{
+    key = {"tomita:first_grammar.cxx" type=CUSTOM}
+}
+
